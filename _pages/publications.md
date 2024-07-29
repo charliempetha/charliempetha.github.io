@@ -15,7 +15,6 @@ First Author:
 
 Third Author:
 
-  1. Haggar R., Amoura Y., Mpetha C. T. et al. 2024. Constraining cosmological parameters using the splashback radius of galaxy clusters. ApJ: 
-: Accepted to ApJ.
+  1. Haggar R., Amoura Y., Mpetha C. T. et al. 2024. Constraining cosmological parameters using the splashback radius of galaxy clusters. ApJ:
 
   
