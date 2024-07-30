@@ -1,8 +1,8 @@
 ---
-title: CV
-permalink: /cv/cv
-slidesurl: 'http://charliempetha.github.io/files/CV.pdf'
-paperurl: 'http://charliempetha.github.io/files/paper1.pdf'
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
 ---
 
 
