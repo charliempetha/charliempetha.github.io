@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+A full list is available on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3Aastronomy%20OR%20database%3Aphysics)&q=%20author%3A%22Mpetha%2C%20C%22&sort=date%20desc%2C%20bibcode%20desc&p_=0)
+
+
 First Author:
 
   1. Mpetha C. T. et al. 2024. The infall region as a complementary probe to cluster abundance. MNRAS: [10.1093/mnras/stae1637](https://doi.org/10.1093/mnras/stae1637).
