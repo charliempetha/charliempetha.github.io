@@ -12,8 +12,8 @@ First Author:
 
   1. Mpetha C. T. et al. 2024. The infall region as a complementary probe to cluster abundance. MNRAS: [10.1093/mnras/stae1637](https://doi.org/10.1093/mnras/stae1637).
   2. Mpetha C. T. et al. 2024. Impact of weak lensing on bright standard siren analyses. PRD: [https://doi.org/10.1103/PhysRevD.110.023502](10.1103/PhysRevD.110.023502).
-  3. Mpetha C. T. et al. 2023.  Future prospects of testing extensions to ΛCDM through the weak lensing of gravitational waves. [10.1103/PhysRevD.107.103518](https://doi.org/10.1103/PhysRevD.107.103518).
-  4. Mpetha C. T. et al. 2023.Gravitational redshifting of galaxies in the SPIDERS cluster catalogue. MNRAS: [10.1093/mnras/stab544](https://doi.org/10.1093/mnras/stab544).
+  3. Mpetha C. T. et al. 2023. Future prospects of testing extensions to ΛCDM through the weak lensing of gravitational waves. PRD: [10.1103/PhysRevD.107.103518](https://doi.org/10.1103/PhysRevD.107.103518).
+  4. Mpetha C. T. et al. 2023. Gravitational redshifting of galaxies in the SPIDERS cluster catalogue. MNRAS: [10.1093/mnras/stab544](https://doi.org/10.1093/mnras/stab544).
 
 
 Third Author:
