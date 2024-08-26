@@ -21,7 +21,7 @@ Teaching Assistant
 Mentoring
 ===
 
-* Devansh Lakhanpal, Highschool Student
+* Devansh L., Highschool Student
   Summer research project --- creating figures and movies of the evolution of galaxy clusters, in particular the infall region, in cosmological simulations
 
 
