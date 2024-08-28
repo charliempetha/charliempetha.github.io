@@ -24,7 +24,7 @@ Infall region of galaxy clusters
 Weak lensing of gravitational waves
 ---------------
 
-Just like light, graviational waves created by the merger of compact objects (black holes and neutron stars) are weakly lensed as they propogate through the Universe, from thir source to us. The causes a (de-)magnification of their wave amplitude. If this is not properly accounted for, it can result in a bias on cosmoloigcal parameters inferred from gravitational wave *standard sirens*. I have investigated wether present approaches to dealing with this bias are sufficient. The figure below shows that, even after including a weak lensing uncertainty taken from the literature, the bias on parameters remains. More work is needed to correctly model the effect of weak lensing.
+Just like light, graviational waves (GWs) created by the merger of compact objects (black holes and neutron stars) are weakly lensed as they propogate through the Universe. This causes a (de-)magnification of their wave amplitude. The ampltiude of a GW is inversely proportional to their distance, so weak lensing impacts the inferred distance to a source. If this is not properly accounted for, it can result in a bias on cosmological parameters inferred from gravitational wave *standard sirens*, where a combination of distance and redshift information is used to probe the Universe's dynamics. I have investigated wether present approaches to dealing with this bias are sufficient. The figure below shows that, even after including a weak lensing uncertainty taken from the literature, the bias on parameters remains. More work is needed to correctly model the effect of weak lensing.
 
 Weak lensing causes a bias on cosmological parameters                    |  Future measurements of the weak lensing of GWs can be ued to constrain cosmology
 :-------------------------:                                              |  :-------------------------:
@@ -40,7 +40,7 @@ Light from galaxies in clusters is redshifted as it escapes the clusters substan
 
 I used data from the SPIDERS (SPectroscopic IDentification of eROSITA Sources) cluster catalogue for a positive detection of gravitational redshifting. Better data is needed for this to constrain the theory of gravity.
 
-![image](http://charliempetha.github.io/files/clus_dz.png)
+![image](http://charliempetha.github.io/files/clus_dz.png =250x)
 *Gravitational redshfing of galaxies in the SPIDERS cluster catalogue. Different definitions of the cluster centre are adopted, also shown are predictions in General Reltivity and an alternate theory of gravity, f(R).*
 
 Contact Information
