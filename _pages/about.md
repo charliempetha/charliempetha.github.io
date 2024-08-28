@@ -15,15 +15,19 @@ I'm a computational cosmologist, working on different probes of fundamental phys
 Research
 ======
 
-Gravitational redshifting:
+Infall region of galaxy clusters:
+---------------
+
 
 
 Weak lensing of gravitational waves:
+---------------
 
 
+Gravitational redshifting:
+---------------
 
-Infall region of galaxy clusters:
-
+![image](http://charliempetha.github.io/files/gz.png)
 
 Contact Information
 ======
