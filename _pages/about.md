@@ -41,7 +41,7 @@ Light from galaxies in clusters is redshifted as it escapes the clusters substan
 
 I used data from the SPIDERS (SPectroscopic IDentification of eROSITA Sources) cluster catalogue for a positive detection of gravitational redshifting. Better data is needed for this to constrain the theory of gravity.
 
-![image](http://charliempetha.github.io/files/clus_dz.png =250x250)
+![image](http://charliempetha.github.io/files/clus_dz.png)
 *Gravitational redshfing of galaxies in the SPIDERS cluster catalogue. Different definitions of the cluster centre are adopted, also shown are predictions in General Reltivity and an alternate theory of gravity, f(R).*
 
 Contact Information
