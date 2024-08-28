@@ -1,6 +1,10 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
 
-Research
-======
 
 Infall region of galaxy clusters
 ---------------
