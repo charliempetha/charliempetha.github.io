@@ -19,13 +19,11 @@ Just like light, graviational waves (GWs) created by the merger of compact objec
 
 I have also explored the possibility for the weak lensing of GWs to be a powerful cosmological probe. The weak lensing of galaxies is measured through the distortion of their shapes, and so vast numbers of galaxies are needed such as their intrinsic shapes average to zero. The weak lensing of GWs is a more simple measurement and could in principle be observed with a single source. The figure below on the right assumes expeted source numbers for a combination of next-generation detectors, such as The Einstein Telescope and Cosmic Explorer. The magnification of the GWs is used to measure the *convergence power spetrum*, which allows us to constrain properties of matter and its clustering, while the distance-redshift information constraints dark energy equation of state parameters. This is done for *bright standard sirens*, sources with an electromagnetic counterpart, and *dark standard sirens*, sources without. Combining these two populations leads to improved constraints.
 
-Weak lensing causes a bias on cosmological parameters                      
-:---------------------:                                                    
+**Weak lensing causes a bias on cosmological parameters** 
 ![image](http://charliempetha.github.io/files/lens_bias_P+_LISA.png)    
 *641 gravitational wave standard sirens observed with a combination of third generation gravitaitonal wave detectors, Einstein Telescope and Cosmic explorer, are used to constrain the dimensionless expansion rate h, and the matter density parameter. In the unlensed case, each source experiences no lensing. In the lensed case, the lensing is drawn from predictions for the weak lensing magnification distribtuion, and an estimated weak lensing uncertainty is applied to each source. The industry-standard weak lensing uncertainty correction has underestimated the effect, and a bias on parameters remains.*
 
-Future measurements of the weak lensing of GWs can be ued to constrain cosmology
-:-------------------------:
+**Future measurements of the weak lensing of GWs can be ued to constrain cosmology**
 ![image](http://charliempetha.github.io/files/wCDM_10.0_2.0_200.png)
 *Constrints on matter and its clusters, and dark energy, using the weak lensing of gravitational waves. We can use bright standard sirens (BSS) and dark standard sirens (DSS) indpendently, or combine them for improved constraints.*
 
