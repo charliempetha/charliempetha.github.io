@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
+Here I summarise some of my work to date, looking at the gravitational redshifting of galaxies as a test of the theory of gravity, the weak lensing of gravitational waves and its cosmological applications, and galaxy clsuter profiles in the infall region as a cosmological probe.
 
 Infall region of galaxy clusters
 ---------------
