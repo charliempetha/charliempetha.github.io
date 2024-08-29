@@ -11,6 +11,7 @@ Teaching Assistant
 
   Nominated for Student Tutor of the Year in the 2022 Student-Led Teaching Awards.
 
+  ### Taught courses
   1. Cosmology (MSc): 2021 & 2022
   2. Introductory Astrophysics (BSc): 2021 & 2022
   3. Modern Physics (BSc): 2020, 2021 & 2022
