@@ -31,20 +31,45 @@ Research experience
       * Forecasts the weak lensing of gravitational waves as a cosmological probe in the next generation gravitational wave detectors
       * Investigating the bias on recovered cosmological parameters caused by the weak lensing of gravitational waves
   - September 2023 - September 2024: Study abroad project, Waterloo Centre for Astrophysics, University of Waterloo
-  -   * Using dark matter simulations to investigate the cosmological dependence of the *infall region* in the outskirts of dark matter halos
+      * Using dark matter simulations to investigate the cosmological dependence of the *infall region* in the outskirts of dark matter halos
       * Performing the first application of a novel cosmological probe utilising the infall region with UNIONS weak lensing profiles of clusters
 
 Publications
 -----
-- [*Gravitational redshifting of galaxies in the SPIDERS cluster catalogue*](https://doi.org/10.1093/mnras/stab544)
-  Mpetha C. T., Collins C. A., Clerc N., Finoguenov A., Peacock J. A. et al. (2021). MNRAS, 503, 1, 669-678. 
-- [*Future prospects of testing extensions to ΛCDM through the weak lensing of gravitational waves*](https://doi.org/10.1103/PhysRevD.107.103518)
+- [*Gravitational redshifting of galaxies in the SPIDERS cluster catalogue*](https://doi.org/10.1093/mnras/stab544). 
+  Mpetha C. T., Collins C. A., Clerc N., Finoguenov A., Peacock J. A., Comparat J., et al. (2021). MNRAS, 503, 1, 669-678. 
+- [*Future prospects of testing extensions to ΛCDM through the weak lensing of gravitational waves*](https://doi.org/10.1103/PhysRevD.107.103518). 
   Mpetha C. T., Congedo G., Taylor A. N. (2023). PRD, 107, 103518.
-- [*Impact of weak lensing on bright standard siren analyses*](https://doi.org/10.1103/PhysRevD.110.023502)
+- [*Impact of weak lensing on bright standard siren analyses*](https://doi.org/10.1103/PhysRevD.110.023502). 
   Mpetha C. T., Congedo G., Taylor A. N. (2024). PRD,
-- [*Constraining cosmological parameters using the splashback radius of galaxy clusters*](https://doi.org/10.3847/1538-4357/ad5cee)
+- [*Constraining cosmological parameters using the splashback radius of galaxy clusters*](https://doi.org/10.3847/1538-4357/ad5cee). 
   Haggar R., Amoura Y., Mpetha C. T., Taylor J. E., Walker K., Power C. (2024). ApJ, 972, 1, 28.
-- [*The infall region as a complementary probe to cluster abundance*](https://doi.org/10.1093/mnras/stae1637)
+- [*The infall region as a complementary probe to cluster abundance*](https://doi.org/10.1093/mnras/stae1637). 
   Mpetha C. T., Amoura Y., Taylor J. E., Haggar R. (2024). MNRAS, 532, 2, 2521-2533.
+
+Awards and Funding
+-----
+- 2018: Cormack/Piazzi Vacation Research Scholarship
+    * £266 per week for six weeks
+- 2019: Outstanding Final Year Performance
+    * Awarded by Lancaster University for having one of the top overall grades in the final year
+- 2019: Research Academy Prize
+    * Awarded by Lancaster University for having one of the top masters project grades in the year
+- 2023: Leverhulme Study Abroad Scholarship
+    * £23,040 over one year
+
+
+Talks
+-----
+
+
+Teaching
+-----
+
+
+
+Service and Leadership
+-----
+
 
 
