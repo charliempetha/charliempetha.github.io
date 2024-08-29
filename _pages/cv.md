@@ -18,20 +18,29 @@ Research experience
   - July 2018 - September 2018: Summer internship, Royal Observatory, Edinburgh
       * `Investigating galaxy blending in weak lensing shear measurements'
       * Quantified shear measurement bias cased by blended galaxies
+      * Supervisor: Dr Giuseppe Congedo
+        
   - October 2018 - May 2019: Mphys project, Lancaster University
       * `Dynamics of a novel oscillating scalar field dark energy'
       * Investigated the observability of featuers of a novel dark energy model
+      * Supervisor: Dr John MacDonald
+        
   - May 2020 - September 2020: MSc project, Liverpool John Moorees University
       * `Investigating Gravitational Redshifting in SPIDERS Galaxy Clusters'
       * Observed gravittional redshifting effect of spectroscopically obserevd galaxies in X-ray selected galaxy clusters
       * Compared observation to predictions from General Relativity and f(R), an alternative theory of gravity
+      * Supervisor: Prof Chris Collins
+        
   - Setember 2020 - March 2025: PhD, University of Edinburgh
       * Topics in gravitational wave weak lensing
       * Forecasts the weak lensing of gravitational waves as a cosmological probe in the next generation gravitational wave detectors
       * Investigating the bias on recovered cosmological parameters caused by the weak lensing of gravitational waves
+      * Supervisors: Prof Andy Taylor, Dr Giuseppe Congedo
+        
   - September 2023 - September 2024: Study abroad project, Waterloo Centre for Astrophysics, University of Waterloo
       * Using dark matter simulations to investigate the cosmological dependence of the *infall region* in the outskirts of dark matter halos
       * Performing the first application of a novel cosmological probe utilising the infall region with UNIONS weak lensing profiles of clusters
+      * Supervisor: Prof James Taylor
 
 Publications
 -----
@@ -58,7 +67,7 @@ Awards and Funding
     * £23,040 over one year
 
 
-Talks
+Presentations
 -----
 
 ### Invited:
@@ -74,13 +83,28 @@ Talks
 - August 2024, **University of Maryland Visiting Speaker**, Maryland, USA
 - September 2024, **Cosmological and Astrophysical Synergies: Tactics for the Latest Era**,  Tagliolo Monferrato, Italy
 
-Teaching
+### Posters:
+CASCA, GWPAW, SUPA Annual Gathering, Tonale Winter School (poster prize)
+
+Collaborations
+-----
+- Euclid Collaboration
+- UNIONS Collaboration
+
+Teaching and Mentorship
 -----
 
-
+- July - September 2024: Summer student mentor
+    * Mentored a high-school student on a project visualising simulated galaxy clusters
+- October 2020 - Present: Teaching Assistant
+    * Courses: Cosmology (MSc), Introductory Astrophysics, Modern Physics, Physics 1A+1B (BSc)
+    * Nominated for Student Tutor of the Year in the 2022 Student-Led Teaching Awards
+- December 2019 - September 2023: Maths and Physics Tutor
+    * Tutored students from ages 11-18, and adults, on a variety of topics in maths and physics.
 
 Service and Leadership
 -----
 
-
+- Large Scale Structure Jounral Club
+    * Organised and chaired a weekly cosmology journal club at the University of Edinburgh for >1 year
 
