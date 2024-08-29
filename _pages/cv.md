@@ -5,7 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-
 Full CV can be found at this [link](http://charliempetha.github.io/files/CV.pdf)
 
 Education
@@ -62,6 +61,18 @@ Awards and Funding
 Talks
 -----
 
+### Invited:
+- January 2023, **LISA collaboration community meeting**, Online
+- February 2024 & June 2024, **UNIONS Collaboration weak lensing meeting**, Online
+
+### Other:
+- May 2022, **UK Cosmology Meeting**, Newcastle, UK
+- September 2022, **Probing the Universe with Multimessenger Astrophysics**, Sestri-Levante, Italy
+- January 2023, **Durham-Edinburgh eXtragalactic Workshop XIX**, Edinburgh, UK
+- January 2024, **American Astronomical Society Annual meeting**, New Orleans, USA
+- June 2024, **Cosmology from Home**, Online
+- August 2024, **University of Maryland Visiting Speaker**, Maryland, USA
+- September 2024, **Cosmological and Astrophysical Synergies: Tactics for the Latest Era**,  Tagliolo Monferrato, Italy
 
 Teaching
 -----
