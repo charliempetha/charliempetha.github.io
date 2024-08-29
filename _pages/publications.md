@@ -11,13 +11,13 @@ A full list is available on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!ty
 First Author:
 
   1. Mpetha C. T. et al. 2024. The infall region as a complementary probe to cluster abundance. MNRAS: [10.1093/mnras/stae1637](https://doi.org/10.1093/mnras/stae1637).
-  2. Mpetha C. T. et al. 2024. Impact of weak lensing on bright standard siren analyses. PRD: [https://doi.org/10.1103/PhysRevD.110.023502](10.1103/PhysRevD.110.023502).
+  2. Mpetha C. T. et al. 2024. Impact of weak lensing on bright standard siren analyses. PRD: [10.1103/PhysRevD.110.023502](https://doi.org/10.1103/PhysRevD.110.023502).
   3. Mpetha C. T. et al. 2023. Future prospects of testing extensions to ΛCDM through the weak lensing of gravitational waves. PRD: [10.1103/PhysRevD.107.103518](https://doi.org/10.1103/PhysRevD.107.103518).
-  4. Mpetha C. T. et al. 2023. Gravitational redshifting of galaxies in the SPIDERS cluster catalogue. MNRAS: [10.1093/mnras/stab544](https://doi.org/10.1093/mnras/stab544).
+  4. Mpetha C. T. et al. 2021. Gravitational redshifting of galaxies in the SPIDERS cluster catalogue. MNRAS: [10.1093/mnras/stab544](https://doi.org/10.1093/mnras/stab544).
 
 
 Third Author:
 
-  1. Haggar R., Amoura Y., Mpetha C. T. et al. 2024. Constraining cosmological parameters using the splashback radius of galaxy clusters. ApJ:
+  1. Haggar R., Amoura Y., Mpetha C. T. et al. 2024. Constraining cosmological parameters using the splashback radius of galaxy clusters. ApJ: [10.3847/1538-4357/ad5cee](https://doi.org/10.3847/1538-4357/ad5cee)
 
   
