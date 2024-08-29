@@ -7,3 +7,26 @@ author_profile: true
 
 
 Full CV can be found at this [link](http://charliempetha.github.io/files/CV.pdf)
+
+Education
+-----
+  - MPhys in Particle Physics and Cosmology, Lancaster University, 2019
+  - MSc in Astrophysics, Liverpool John Moores University, 2020
+  - PhD in Physics, University of Edinburgh, 2025 (exp.)
+
+Research experience
+-----
+  - July 2018 - September 2018: Summer internship, 
+      * Royal Observatory, Edinburgh
+      * `Investigating galaxy blending in weak lensing shear measurements'
+      * Quantified shear measurement bias cased by blended galaxies
+  - October 2018 - May 2019: Mphys project
+      * Lancaster University
+      * `Dynamics of a novel oscillating scalar field dark energy'
+      * Investigated the observability of featuers of a novel dark energy model
+  - May 2020 - September 2020: MSc project
+      * Liverpool John Moorees University
+      * `Investigating Gravitational Redshifting in SPIDERS Galaxy Clusters'
+      * Observed gravittional redshifting effect of spectroscopically obserevd galaxies in X-ray selected galaxy clusters
+      * Compared observation to predictions from General Relativity and f(R), an alternative theory of gravity
+  - Setember 2020 - March 2025: PhD
