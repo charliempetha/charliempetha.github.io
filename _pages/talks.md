@@ -8,8 +8,8 @@ author_profile: true
 Invited
 -----
 
-- January 2023, **LISA collaboration community meeting**, Online
-- February 2024 & June 2024, **UNIONS Collaboration weak lensing meeting**, Online
+- *Future prospects on testing extensions to ΛCDM through the weak lensing of gravitational waves*, January 2023, **LISA collaboration community meeting**, Online
+- *Using the infall region to probe cosmology with UNIONS weak lensing*, February 2024 & June 2024, **UNIONS Collaboration weak lensing meeting**, Online
 
 Other
 -----
