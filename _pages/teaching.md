@@ -27,12 +27,11 @@ Mentoring
 
 * Devansh L., Highschool Student
   Summer research project --- creating figures and movies of the evolution of galaxy clusters, in particular the infall region, in cosmological simulations
-<video autoplay loop muted width="500" height="500" src="/files/halo_evolution.gif">
-HALO EVOLUTION
-</video>
+ <figure>
+  <img alt="My Image" width="500" height="500" src="/files/halo_evolution.gif">
+  <figcaption>Evolution of a dark matter halo. There are signifincat dynamical effects occuring ourside the virial radius, which varies depending on infalling groups. Figure created by Devansh L.</figcaption>
+</figure> 
 
-
-<img alt="My Image" width="500" height="500" src="/files/halo_evolution.gif">
 
 
 Tutoring
