@@ -31,5 +31,6 @@ Mentoring
 
 Tutoring
 -----
-Maths and Physics Tutor through Tutorful. 
-Taught a broad range of topics in Maths and Physics to students ages 11-18, and Adults.
+* Maths and Physics Tutor through Tutorful. 
+  Taught a broad range of topics in Maths and Physics to students ages 11-18, and Adults.
+* Volunteer Tutor with the Sudanese Community Group, Edinburgh
