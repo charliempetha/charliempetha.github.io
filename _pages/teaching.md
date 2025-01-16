@@ -32,8 +32,6 @@ Mentoring
   <figcaption>Evolution of a dark matter halo. There are signifincat dynamical effects occuring ourside the virial radius, which varies depending on infalling groups. Figure created by Devansh L.</figcaption>
 </figure> 
 
-
-
 Tutoring
 -----
 * Maths and Physics Tutor through Tutorful. 
