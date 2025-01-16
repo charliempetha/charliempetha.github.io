@@ -27,12 +27,12 @@ Mentoring
 
 * Devansh L., Highschool Student
   Summer research project --- creating figures and movies of the evolution of galaxy clusters, in particular the infall region, in cosmological simulations
-<video autoplay loop muted width="500" height="500" src="files/halo_evolution.gif">
+<video autoplay loop muted width="500" height="500" src="/files/halo_evolution.gif">
 HALO EVOLUTION
 </video>
 
 
-<img alt="My Image" width="500" height="500" src="files/halo_evolution.gif">
+<img alt="My Image" width="500" height="500" src="/files/halo_evolution.gif">
 
 
 Tutoring
