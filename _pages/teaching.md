@@ -14,9 +14,11 @@ Teaching Assistant
 ### Taught courses
   
   1. Cosmology (MSc): 2021 & 2022
-  2. Introductory Astrophysics (BSc): 2021 & 2022
-  3. Modern Physics (BSc): 2020, 2021 & 2022
-  4. Physics 1A + 1B (BSc): 2020, 2021
+  2. The Dark Universe (BSc): 2025
+  3. Discovering Astronomy (BSc): 2022
+  4. Introductory Astrophysics (BSc): 2021 & 2022
+  5. Modern Physics (BSc): 2020, 2021, 2022 & 2024
+  6. Physics 1A + 1B (BSc): 2020, 2021
 
 
 
