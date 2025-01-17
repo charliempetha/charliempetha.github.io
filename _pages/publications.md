@@ -10,7 +10,7 @@ A full list is available on [ADS](https://ui.adsabs.harvard.edu/search/fq=%7B!ty
 
 First Author:
 
-  1. Mpetha C. T. et al. 2025. Cosmology from UNIONS weak lensing profiles of galaxy clusters. Submitted to MNRAS.
+  1. Mpetha C. T. et al. 2025. Cosmology from UNIONS weak lensing profiles of galaxy clusters. Submitted to MNRAS: [arxiv:2501.09147](https://arxiv.org/abs/2501.09147).
   2. Mpetha C. T. et al. 2024. The infall region as a complementary probe to cluster abundance. MNRAS: [10.1093/mnras/stae1637](https://doi.org/10.1093/mnras/stae1637), [arxiv:2407.01661](https://arxiv.org/abs/2407.01661).
   3. Mpetha C. T. et al. 2024. Impact of weak lensing on bright standard siren analyses. PRD: [10.1103/PhysRevD.110.023502](https://doi.org/10.1103/PhysRevD.110.023502), [arxiv:2402.19476](https://arxiv.org/abs/2402.19476).
   4. Mpetha C. T. et al. 2023. Future prospects of testing extensions to ΛCDM through the weak lensing of gravitational waves. PRD: [10.1103/PhysRevD.107.103518](https://doi.org/10.1103/PhysRevD.107.103518), [arxiv:2208.05959](https://arxiv.org/abs/2208.05959).
