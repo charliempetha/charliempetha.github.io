@@ -54,6 +54,8 @@ Publications
   Haggar R., Amoura Y., Mpetha C. T., Taylor J. E., Walker K., Power C. (2024). ApJ, 972, 1, 28.
 - [*The infall region as a complementary probe to cluster abundance*](https://doi.org/10.1093/mnras/stae1637). 
   Mpetha C. T., Amoura Y., Taylor J. E., Haggar R. (2024). MNRAS, 532, 2, 2521-2533.
+- [*Cosmology from UNIONS weak lensing profiles of galaxy clusters*](https://arxiv.org/abs/2501.09147). 
+  Mpetha C. T., Amoura Y., Taylor J. E., Haggar R., et al. (2025). Submitted to MNRAS.
 
 Awards and Funding
 -----
@@ -73,7 +75,8 @@ Presentations
 ### Invited:
 - January 2023, **LISA collaboration community meeting**, Online
 - February 2024 & June 2024, **UNIONS Collaboration weak lensing meeting**, Online
-
+- January 2025, **Max Planck Institute for Extraterrestrial Physics**, Garching, Germany
+  
 ### Other:
 - May 2022, **UK Cosmology Meeting**, Newcastle, UK
 - September 2022, **Probing the Universe with Multimessenger Astrophysics**, Sestri-Levante, Italy
@@ -97,7 +100,7 @@ Teaching and Mentorship
 - July - September 2024: Summer student mentor
     * Mentored a high-school student on a project visualising simulated galaxy clusters
 - October 2020 - Present: Teaching Assistant
-    * Courses: Cosmology (MSc), Introductory Astrophysics, Modern Physics, Physics 1A+1B (BSc)
+    * Courses: Cosmology (MSc), Discovering Astronomy, Introductory Astrophysics, Modern Physics, Physics 1A+1B (BSc)
     * Nominated for Student Tutor of the Year in the 2022 Student-Led Teaching Awards
 - December 2019 - September 2023: Maths and Physics Tutor
     * Tutored students from ages 11-18, and adults, on a variety of topics in maths and physics.
