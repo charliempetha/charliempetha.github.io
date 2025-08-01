@@ -7,6 +7,18 @@ author_profile: true
 
 Here I summarise some of my work to date, looking at the gravitational redshifting of galaxies as a test of the theory of gravity, the weak lensing of gravitational waves and its cosmological applications, and galaxy clsuter profiles in the infall region as a cosmological probe.
 
+Gravitational Redshift
+---------------
+As light escapes from galaxies residing in a galaxy cluster, it is redshifted by the subtational gravitational potential well it must climb out of. Thus, measurement of this redshift reveals information on the nature of the potential well, informing on the theory of gravity and the proeprties of dark matter.
+
+The measurement is performed by comparing the spectroscopic redshifts of cluster members to the centre of the host cluster, yielding a velocity offset. Stacking clusters and combining velocity offsets provides a histogram whose mean value is sensitive to gravitational redshift. I used data from the SPIDERS (SPectroscopic IDentification of eROSITA Sources) cluster catalogue for a positive detection of gravitational redshift. Better data is needed for this to constrain the theory of gravity.
+
+![image](http://charliempetha.github.io/files/clus_dz.png)
+*Gravitational redshfing of galaxies in the SPIDERS cluster catalogue. Different definitions of the cluster centre are adopted, also shown are predictions in General Reltivity and an alternate theory of gravity, f(R).*
+
+I co-lead a Euclid Standard Proiject to measure this effect from Euclid spectrscopcy. We will then employ these measurements to test the weak equivalence principle and the theory of gravity.
+
+
 Infall region of galaxy clusters
 ---------------
 
@@ -26,14 +38,3 @@ I have also explored the possibility for the weak lensing of GWs to be a powerfu
 **Future measurements of the weak lensing of GWs can be ued to constrain cosmology**
 ![image](http://charliempetha.github.io/files/wCDM_10.0_2.0_200.png)
 *Constrints on matter and its clusters, and dark energy, using the weak lensing of gravitational waves. We can use bright standard sirens (BSS) and dark standard sirens (DSS) indpendently, or combine them for improved constraints.*
-
-Gravitational redshifting
----------------
-
-Light from galaxies in clusters is redshifted as it escapes the clusters substantial potential well. The size of this gravitational redshifting depends on the theory of gravity. Spectroscopic redshift measurements of galaxies and their host clusters centre can be used to measure the size of this effect as a function of radius.
-
-I used data from the SPIDERS (SPectroscopic IDentification of eROSITA Sources) cluster catalogue for a positive detection of gravitational redshifting. Better data is needed for this to constrain the theory of gravity.
-
-![image](http://charliempetha.github.io/files/clus_dz.png)
-*Gravitational redshfing of galaxies in the SPIDERS cluster catalogue. Different definitions of the cluster centre are adopted, also shown are predictions in General Reltivity and an alternate theory of gravity, f(R).*
-
