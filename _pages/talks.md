@@ -26,6 +26,8 @@ Other
 - *The infall region of galaxy clusters as a complementary probe to cluster abundance*, January 2025, **Harvard-Smithsonian Center for Astrophysics - Institute for Theory and Computation Luncheon**, Cambridge, USA
 - *The infall region of galaxy clusters as a complementary probe to cluster abundance*, February 2025, **MIT Kavli Institute - Monday Afternoon Talks**, Cambridge, USA
 - *The infall region of galaxy clusters as a complementary probe to cluster abundance*, February 2025, **Kavli Institute for Cosmological Physics - Survey Science Group Meeting**, Chicago, USA
+- *The infall region of galaxy clusters as a complementary probe to cluster abundance*, May 2025, **Expanding the Boundaries of Dark Matter Halos**, Shanghai Jiao Tong University, China
+- *The infall region of galaxy clusters as a complementary probe to cluster abundance*, June 2025, **KMI Seminar**, Nagoya University, Japan
   
 Posters
 -----
