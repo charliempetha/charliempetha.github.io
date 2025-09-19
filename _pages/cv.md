@@ -41,6 +41,8 @@ Research experience
       * Using dark matter simulations to investigate the cosmological dependence of the *infall region* in the outskirts of dark matter halos
       * Performing the first application of a novel cosmological probe utilising the infall region with UNIONS weak lensing profiles of clusters
       * Supervisor: Prof James Taylor
+        
+  - September 2025 - : NASA Postdoctoral Program Fellowship, NASA Goddard Space Flight Center
 
 Publications
 -----
@@ -54,8 +56,8 @@ Publications
   Haggar R., Amoura Y., Mpetha C. T., Taylor J. E., Walker K., Power C. (2024). ApJ, 972, 1, 28.
 - [*The infall region as a complementary probe to cluster abundance*](https://doi.org/10.1093/mnras/stae1637). 
   Mpetha C. T., Amoura Y., Taylor J. E., Haggar R. (2024). MNRAS, 532, 2, 2521-2533.
-- [*Cosmology from UNIONS weak lensing profiles of galaxy clusters*](https://arxiv.org/abs/2501.09147). 
-  Mpetha C. T., Amoura Y., Taylor J. E., Haggar R., et al. (2025). Submitted to MNRAS.
+- [*Cosmology from UNIONS weak lensing profiles of galaxy clusters*](https://doi.org/10.1093/mnras/staf1538). 
+  Mpetha C. T., Amoura Y., Taylor J. E., Haggar R., et al. (2025). Accepted to MNRAS.
 
 Awards and Funding
 -----
@@ -76,6 +78,7 @@ Presentations
 - January 2023, **LISA collaboration community meeting**, Online
 - February 2024 & June 2024, **UNIONS Collaboration weak lensing meeting**, Online
 - January 2025, **Max Planck Institute for Extraterrestrial Physics**, Garching, Germany
+- January 2025, **Yale Center for Astronomy and Astrophysics**, New Haven CT, USA
   
 ### Other:
 - May 2022, **UK Cosmology Meeting**, Newcastle, UK
@@ -85,12 +88,18 @@ Presentations
 - June 2024, **Cosmology from Home**, Online
 - August 2024, **University of Maryland Visiting Speaker**, Maryland, USA
 - September 2024, **Cosmological and Astrophysical Synergies: Tactics for the Latest Era**,  Tagliolo Monferrato, Italy
+- January 2025, **Harvard-Smithsonian Center for Astrophysics**, Cambridge MA, USA
+- Febrary 2025, **MIT Kavli Institute**, Cambridge MA, USA
+- Febrary 2025, **Kavli Institute for Cosmological Physics**, Chicago IL, USA
+- May 2025, **Shanghai Jiao Tong University**, Shanghai, China
+- June 2025, **Nagoya University**, Nagoya, Japan
 
 ### Posters:
 CASCA, GWPAW, SUPA Annual Gathering, Tonale Winter School (poster prize)
 
 Collaborations
 -----
+- Roman Collaboration
 - Euclid Collaboration
 - UNIONS Collaboration
 
