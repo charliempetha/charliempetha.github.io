@@ -9,8 +9,9 @@ redirect_from:
 
 About Me
 ======
-I'm a computational cosmologist, working on various probes of fundamental physics. I am a member of the UNIONS (Ultraviolet Near Infrared Optical Northern Survey) and Euclid collaborations.
 
-I was born in Liverpool in the UK, did my undergraduate degree in Lancaster, and went to the University of Edinburgh for my PhD. I completed a Leverhulme Study Abroad Scholarship at the University of Waterloo during my PhD program. I have been rock climbing from a young age, using it as an excuse to travel and get outdoors when I can. I also enjoy squash, swimming, reading and music.
+I study fundamental properties of the Universe through observations of the largest gravitaitonally bound structures --- galaxy clusters. I am a member of the [Roman](https://roman.gsfc.nasa.gov/), [UNIONS](https://www.skysurvey.cc/) and [Euclid](https://www.esa.int/Science_Exploration/Space_Science/Euclid) collaborations.
+
+I was born in Liverpool in the UK, did my undergraduate degree in Lancaster, and went to the University of Edinburgh for my PhD. I completed a Leverhulme Study Abroad Scholarship at the University of Waterloo during my PhD program. I have been rock climbing from a young age, and I also enjoy squash, swimming, reading and music.
 
 
