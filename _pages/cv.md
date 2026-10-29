@@ -109,6 +109,7 @@ Presentations
 - June 2026, **LISA Consortium Meeting**, Online
 - March 2026, **Roman HLIS Cosmology PIT Meeting**, Online
 - February 2026, **MICA Astro-Animation**, Online
+  Animation is [avialable here](https://www.astroanimation.org/dark-matter/).
 - November 2025, **Roman HLIS Cosmology PIT Meeting**, Online
 - June 2025, **KMI Seminar**, Nagoya University, Japan
 - May 2025, **Expanding the Boundaries of Dark Matter Halos**, Shanghai Jiao Tong University, China
