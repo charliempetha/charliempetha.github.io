@@ -7,83 +7,91 @@ author_profile: true
 
 Full CV can be found at this [link](http://charliempetha.github.io/files/Mpetha_CV.pdf)
 
+Employment
+-----
+  - September 2025 - Present: NASA Postdoctoral Program Fellowship, NASA Goddard Space Flight Center
+
 Education
 -----
-  - MPhys in Particle Physics and Cosmology, Lancaster University, 2019
-  - MSc in Astrophysics, Liverpool John Moores University, 2020
   - PhD in Cosmology, University of Edinburgh, 2025
+  - MSc in Astrophysics, Liverpool John Moores University, 2020
+  - MPhys in Particle Physics and Cosmology, Lancaster University, 2019
 
-Research experience
+Research Experience
 -----
-  - July 2018 - September 2018: Summer internship, Royal Observatory, Edinburgh
-      * `Investigating galaxy blending in weak lensing shear measurements'
-      * Quantified shear measurement bias cased by blended galaxies
-      * Supervisor: Dr Giuseppe Congedo
-        
-  - October 2018 - May 2019: Mphys project, Lancaster University
-      * `Dynamics of a novel oscillating scalar field dark energy'
-      * Investigated the observability of featuers of a novel dark energy model
-      * Supervisor: Dr John MacDonald
-        
-  - May 2020 - September 2020: MSc project, Liverpool John Moorees University
-      * `Investigating Gravitational Redshifting in SPIDERS Galaxy Clusters'
-      * Observed gravittional redshifting effect of spectroscopically obserevd galaxies in X-ray selected galaxy clusters
-      * Compared observation to predictions from General Relativity and f(R), an alternative theory of gravity
-      * Supervisor: Prof Chris Collins
-        
-  - Setember 2020 - March 2025: PhD, University of Edinburgh
-      * Topics in gravitational wave weak lensing
-      * Forecasts the weak lensing of gravitational waves as a cosmological probe in the next generation gravitational wave detectors
-      * Investigating the bias on recovered cosmological parameters caused by the weak lensing of gravitational waves
-      * Supervisors: Prof Andy Taylor, Dr Giuseppe Congedo
-        
   - September 2023 - September 2024: Study abroad project, Waterloo Centre for Astrophysics, University of Waterloo
       * Using dark matter simulations to investigate the cosmological dependence of the *infall region* in the outskirts of dark matter halos
       * Performing the first application of a novel cosmological probe utilising the infall region with UNIONS weak lensing profiles of clusters
       * Supervisor: Prof James Taylor
-        
-  - September 2025 - : NASA Postdoctoral Program Fellowship, NASA Goddard Space Flight Center
+
+  - September 2020 - March 2025: PhD, University of Edinburgh
+      * Topics in gravitational wave weak lensing
+      * Forecasts the weak lensing of gravitational waves as a cosmological probe in the next generation gravitational wave detectors
+      * Investigating the bias on recovered cosmological parameters caused by the weak lensing of gravitational waves
+      * Supervisors: Prof Andy Taylor, Dr Giuseppe Congedo
+
+  - May 2020 - September 2020: MSc project, Liverpool John Moores University
+      * `Investigating Gravitational Redshifting in SPIDERS Galaxy Clusters'
+      * Observed gravitational redshifting effect of spectroscopically observed galaxies in X-ray selected galaxy clusters
+      * Compared observation to predictions from General Relativity and f(R), an alternative theory of gravity
+      * Supervisor: Prof Chris Collins
+
+  - October 2018 - May 2019: MPhys project, Lancaster University
+      * `Dynamics of a novel oscillating scalar field dark energy'
+      * Investigated the observability of features of a novel dark energy model
+      * Supervisor: Dr John MacDonald
+
+  - July 2018 - September 2018: Summer internship, Royal Observatory, Edinburgh
+      * `Investigating galaxy blending in weak lensing shear measurements'
+      * Quantified shear measurement bias caused by blended galaxies
+      * Supervisor: Dr Giuseppe Congedo
 
 Publications
 -----
 ### First author
-6. [*Towards reliably measuring the mass-size relation of dark matter halos: Impact of projection, miscentering and Eddington bias*](https://arxiv.org/abs/2610.36531). Mpetha C. T. et al. (2026). Submitted to ApJ.
-5. [*Cosmology from UNIONS weak lensing profiles of galaxy clusters*](https://doi.org/10.1093/mnras/staf1538). Mpetha C. T. et al. (2025). MNRAS.
-4. [*The infall region as a complementary probe to cluster abundance*](https://doi.org/10.1093/mnras/stae1637). Mpetha C. T. et al. (2024). MNRAS.
-3. [*Impact of weak lensing on bright standard siren analyses*](https://doi.org/10.1103/PhysRevD.110.023502). Mpetha C. T. et al. (2024). PRD.
-2. [*Future prospects of testing extensions to ΛCDM through the weak lensing of gravitational waves*](https://doi.org/10.1103/PhysRevD.107.103518). Mpetha C. T. et al. (2023). PRD.
-1. [*Gravitational redshifting of galaxies in the SPIDERS cluster catalogue*](https://doi.org/10.1093/mnras/stab544). Mpetha C. T. et al. (2021). MNRAS.
+<ol reversed start="6">
+<li><a href="https://arxiv.org/abs/2610.36531"><em>Towards reliably measuring the mass-size relation of dark matter halos: Impact of projection, miscentering and Eddington bias</em></a>. Mpetha C. T. et al. (2026). Submitted to ApJ.</li>
+<li><a href="https://doi.org/10.1093/mnras/staf1538"><em>Cosmology from UNIONS weak lensing profiles of galaxy clusters</em></a>. Mpetha C. T. et al. (2025). MNRAS.</li>
+<li><a href="https://doi.org/10.1093/mnras/stae1637"><em>The infall region as a complementary probe to cluster abundance</em></a>. Mpetha C. T. et al. (2024). MNRAS.</li>
+<li><a href="https://doi.org/10.1103/PhysRevD.110.023502"><em>Impact of weak lensing on bright standard siren analyses</em></a>. Mpetha C. T. et al. (2024). PRD.</li>
+<li><a href="https://doi.org/10.1103/PhysRevD.107.103518"><em>Future prospects of testing extensions to ΛCDM through the weak lensing of gravitational waves</em></a>. Mpetha C. T. et al. (2023). PRD.</li>
+<li><a href="https://doi.org/10.1093/mnras/stab544"><em>Gravitational redshifting of galaxies in the SPIDERS cluster catalogue</em></a>. Mpetha C. T. et al. (2021). MNRAS.</li>
+</ol>
 
 ### Significant co-author
-3. [*Cluster Properties as a Function of Dynamical State in the DESI Legacy × UNIONS Surveys*](https://doi.org/10.3847/1538-4357/ae8399). Ahad S. L., Reid R., Mpetha C. T. et al. (2026). MNRAS.
-2. [*Tracing the dynamical states and mass accretion histories of galaxy clusters in IllustrisTNG*](https://doi.org/10.1093/mnras/stag1093). Reid R., Ahad S. L., Haggar R., Mpetha C. T. et al. (2026). MNRAS.
-1. [*Constraining cosmological parameters using the splashback radius of galaxy clusters*](https://doi.org/10.3847/1538-4357/ad5cee). Haggar R., Amoura Y., Mpetha C. T. et al. (2024). ApJ.
+<ol reversed start="3">
+<li><a href="https://doi.org/10.3847/1538-4357/ae8399"><em>Cluster Properties as a Function of Dynamical State in the DESI Legacy × UNIONS Surveys</em></a>. Ahad S. L., Reid R., Mpetha C. T. et al. (2026). MNRAS.</li>
+<li><a href="https://doi.org/10.1093/mnras/stag1093"><em>Tracing the dynamical states and mass accretion histories of galaxy clusters in IllustrisTNG</em></a>. Reid R., Ahad S. L., Haggar R., Mpetha C. T. et al. (2026). MNRAS.</li>
+<li><a href="https://doi.org/10.3847/1538-4357/ad5cee"><em>Constraining cosmological parameters using the splashback radius of galaxy clusters</em></a>. Haggar R., Amoura Y., Mpetha C. T. et al. (2024). ApJ.</li>
+</ol>
 
 ### Other co-author
-4. [*Euclid preparation. The shape of halo profiles in ΛCDM and non-standard cosmologies*](https://arxiv.org/abs/2609.04192). Pizzuti L. et al. incl. Mpetha C. T. (2026). Submitted to A&A.
-3. [*Euclid preparation: CV. CosmoPostProcess*](https://doi.org/10.1051/0004-6361/202660776). Ingrao R. et al. incl. Mpetha C. T. (2026). A&A.
-2. [*Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data*](https://doi.org/10.1093/mnras/stag1318). Akhmetshyn R. et al. incl. Mpetha C. T. (2026). MNRAS.
-1. [*Revisiting the ‘Lensing is Low’ Problem with UNIONS*](https://arxiv.org/abs/2606.23651). Campbell M. C. T. et al. incl. Mpetha C. T. (2026). Submitted to MNRAS.
+<ol reversed start="4">
+<li><a href="https://arxiv.org/abs/2609.04192"><em>Euclid preparation. The shape of halo profiles in ΛCDM and non-standard cosmologies</em></a>. Pizzuti L. et al. incl. Mpetha C. T. (2026). Submitted to A&amp;A.</li>
+<li><a href="https://doi.org/10.1051/0004-6361/202660776"><em>Euclid preparation: CV. CosmoPostProcess</em></a>. Ingrao R. et al. incl. Mpetha C. T. (2026). A&amp;A.</li>
+<li><a href="https://doi.org/10.1093/mnras/stag1318"><em>Measuring satellite galaxy subhalo masses in redMaPPer clusters with UNIONS weak lensing data</em></a>. Akhmetshyn R. et al. incl. Mpetha C. T. (2026). MNRAS.</li>
+<li><a href="https://arxiv.org/abs/2606.23651"><em>Revisiting the ‘Lensing is Low’ Problem with UNIONS</em></a>. Campbell M. C. T. et al. incl. Mpetha C. T. (2026). Submitted to MNRAS.</li>
+</ol>
 
 Awards and Funding
 -----
-- 2018: Cormack/Piazzi Vacation Research Scholarship
-    * £266 per week for six weeks
-- 2019: Outstanding Final Year Performance
-    * Awarded by Lancaster University for having one of the top overall grades in the final year
-- 2019: Research Academy Prize
-    * Awarded by Lancaster University for having one of the top masters project grades in the year
-- 2023: Leverhulme Study Abroad Scholarship
-    * £23,040 over one year
 - 2026: Approved Roman Cycle 1 Program
     * PI: Mpetha C. T. and Choi A.; $150,000 over two years
+- 2023: Leverhulme Study Abroad Scholarship
+    * £23,040 over one year
+- 2019: Research Academy Prize
+    * Awarded by Lancaster University for having one of the top masters project grades in the year
+- 2019: Outstanding Final Year Performance
+    * Awarded by Lancaster University for having one of the top overall grades in the final year
+- 2018: Cormack/Piazzi Vacation Research Scholarship
+    * £266 per week for six weeks
 
 
 Presentations
 -----
 
 ### Invited:
-- March 2027, **University of Pittsburgh AstroLunch**, Online (expected)
+- March 2027, **University of Pittsburgh AstroLunch** (expected)
 - October 2026, **MPE CCG Seminar**, Garching, Germany
 - September 2026, **LMU Cosmology Lunch Seminar**, Munich, Germany
 - September 2026, **MPIA Seminar**, Heidelberg, Germany
